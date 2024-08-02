@@ -19,4 +19,5 @@ result, but so far this model looks suitable.
 
 <h3>CONCLUSION:<br></h3>
 The idea of the project is to bring a new type of authentication to increase security. This type of keystroke authentication will be nearly impossible to immitate as the typing style of almost everyone is different.
+Project is still under development as the aim is to build a model with most accurate classification capability.
 
