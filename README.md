@@ -1,4 +1,4 @@
-<h1> User-authentication project </h1>
+<h1> AuthX </h1>
 
 <h3> AIM:<br></h3>
 <p>This projects aims is to create a new and more secure way of authentication. Keystrokes pattern is used to identify if it is the owner or not.</p>
